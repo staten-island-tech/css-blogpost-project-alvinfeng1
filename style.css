@@ -1,12 +1,17 @@
-body{
-
-background-color: blueviolet;
-color: brown;
-font-size: 30px;
+body {
+  background-color: blueviolet;
+  color: brown;
+  font-size: 30px;
 }
-h1 {color: blanchedalmond;
+h1 {
+  color: blanchedalmond;
 }
-.main-header {color: aqua;
+.main-header {
+  color: aqua;
 }
-.main-header{ color: azure;
+.cool {
+  color: azure;
+}
+#sup {
+    color: brown;
 }
