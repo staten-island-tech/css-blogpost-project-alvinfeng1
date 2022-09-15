@@ -1,5 +1,12 @@
+.image {
+  background-image: url(Queen\ elizabeth.jpg);
+  background-position: center;
+  color: aqua;
+  height: 70vh;
+  text-align: center;
+}
 body {
-  background-color: blueviolet;
+  background-color: blueviolet ;
   color: brown;
   font-size: 30px;
 }
@@ -9,9 +16,9 @@ h1 {
 .main-header {
   color: aqua;
 }
-.cool {
-  color: azure;
+.main-header {
+text-align: center;
 }
-#sup {
-    color: brown;
+.main-header { 
+  margin-top: 100px;
 }
