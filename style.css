@@ -1,24 +1,56 @@
 .image {
   background-image: url(Queen\ elizabeth.jpg);
   background-position: center;
-  color: aqua;
-  height: 70vh;
-  text-align: center;
+  height: 75vh;
+  margin-left:30vh ;
+  margin-right:30vh;
 }
+.image1 {
+  background-image: url(ye.jpg);
+  background-position: center;
+  height: 50vh;
+  margin-left:30vh ;
+  margin-right:30vh;
+}
+.image2 {
+  background-image: url(nba.jpg);
+  background-position: center;
+  height: 50vh;
+  margin-left:30vh ;
+  margin-right:30vh;
+} 
+
 body {
   background-color: blueviolet ;
-  color: brown;
+  color: blue;
   font-size: 30px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 h1 {
   color: blanchedalmond;
 }
 .main-header {
   color: aqua;
-}
-.main-header {
-text-align: center;
-}
-.main-header { 
   margin-top: 100px;
+  text-align: center;
+}
+.cool {
+  text-align: center;
+  color: black;
+}
+.link1 {
+  text-align: center;
+}
+.kanye {
+  text-align: center;
+  margin-top: 75px;
+}
+.link2 {
+  text-align: center;
+}
+.answer {
+  text-align: center;
+}
+.rip {
+  text-align: center;
 }
