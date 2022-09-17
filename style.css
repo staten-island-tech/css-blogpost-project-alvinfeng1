@@ -1,56 +1,75 @@
 .image {
   background-image: url(Queen\ elizabeth.jpg);
   background-position: center;
-  height: 75vh;
-  margin-left:30vh ;
-  margin-right:30vh;
+  height: 100vh;
+  margin-left: 30vh;
+  margin-right: 30vh;
+  margin-bottom: 10vh;
 }
+
 .image1 {
   background-image: url(ye.jpg);
   background-position: center;
-  height: 50vh;
-  margin-left:30vh ;
-  margin-right:30vh;
+  height: 100vh;
+  margin-left: 30vh;
+  margin-right: 30vh;
+  margin-bottom: 10vh;
 }
+
 .image2 {
   background-image: url(nba.jpg);
   background-position: center;
-  height: 50vh;
-  margin-left:30vh ;
-  margin-right:30vh;
-} 
+  height: 80vh;
+  margin-left: 30vh;
+  margin-right: 30vh;
+  margin-bottom: 10vh;
+}
 
 body {
-  background-color: blueviolet ;
-  color: blue;
+  background-color: beige;
   font-size: 30px;
   font-family: 'Roboto Condensed', sans-serif;
 }
+
 h1 {
   color: blanchedalmond;
 }
+
 .main-header {
   color: aqua;
   margin-top: 100px;
   text-align: center;
+  background-color: blue;
+  margin: 20vh ;
+  padding: 25px 5px;
 }
+
 .cool {
   text-align: center;
   color: black;
+  background-color: brown;
+  margin: 20vh ;
+  padding: 25px 5px;
 }
+
 .link1 {
   text-align: center;
 }
+
 .kanye {
   text-align: center;
   margin-top: 75px;
+  color: blue; 
+  background-color: aqua;
+  margin: 20vh ;
+  padding: 25px 5px;
 }
-.link2 {
-  text-align: center;
-}
-.answer {
-  text-align: center;
-}
+
 .rip {
+  text-align: center;
+  color: blueviolet;
+}
+
+#nba {
   text-align: center;
 }
