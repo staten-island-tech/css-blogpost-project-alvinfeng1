@@ -1,7 +1,7 @@
 .image {
   background-image: url(Queen\ elizabeth.jpg);
   background-position: center;
-  height: 100vh;
+  height: 70vh;
   margin-left: 30vh;
   margin-right: 30vh;
   margin-bottom: 10vh;
@@ -11,8 +11,8 @@
   background-image: url(ye.jpg);
   background-position: center;
   height: 100vh;
-  margin-left: 30vh;
-  margin-right: 30vh;
+  margin-left: 50vh;
+  margin-right: 50vh;
   margin-bottom: 10vh;
 }
 
@@ -29,10 +29,6 @@ body {
   background-color: beige;
   font-size: 30px;
   font-family: 'Roboto Condensed', sans-serif;
-}
-
-h1 {
-  color: blanchedalmond;
 }
 
 .main-header {
@@ -54,6 +50,7 @@ h1 {
 
 .link1 {
   text-align: center;
+  font-size: larger;
 }
 
 .kanye {
@@ -68,8 +65,5 @@ h1 {
 .rip {
   text-align: center;
   color: blueviolet;
-}
-
-#nba {
-  text-align: center;
+  font-size: large;
 }
