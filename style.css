@@ -5,7 +5,7 @@
   margin-left: 30vh;
   margin-right: 30vh;
   margin-bottom: 10vh;
-  border: 20px solid rgb(23, 78, 55);
+  border: 20px solid black);
   border-radius: 20px;
 }
 
@@ -17,7 +17,7 @@
   margin-right: 50vh;
   margin-bottom: 10vh;
   border-radius: 20px;
-  border: 20px solid gray;
+  border: 20px solid black;
 }
 
 .image2 {
@@ -26,7 +26,7 @@
   height: 80vh;
   margin-left: 30vh;
   margin-right: 30vh;
-  border: 20px solid gray;
+  border: 20px solid black;
   border-radius: 20px;
   margin-bottom: 10vh;
 }
@@ -55,7 +55,7 @@ body {
   margin: 20vh ;
   padding: 25px 5px;
   border-radius: 20px;
-  border: 10px solid rebeccapurple;
+  border: 10px solid blue;
 }
 
 .link1 {
