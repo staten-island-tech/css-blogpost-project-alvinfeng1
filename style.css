@@ -76,9 +76,10 @@ body {
 
 .rip {
   text-align: center;
-  color:orchid;
+  color: darkviolet;
   font-size: larger;
   padding: 30px auto; 
+  background-color: cyan;
   border-radius: 20px;
   border: 10px solid blue;
 }
