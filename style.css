@@ -1,4 +1,4 @@
-.image {
+#image {
   background-image: url(Queen\ elizabeth.jpg);
   background-position: center;
   height: 70vh;
@@ -9,7 +9,7 @@
   border-radius: 20px;
 }
 
-.image1 {
+#image1 {
   background-image: url(ye.jpg);
   background-position: center;
   height: 100vh;
@@ -20,7 +20,7 @@
   border: 20px solid black;
 }
 
-.image2 {
+#image2 {
   background-image: url(nba.jpg);
   background-position: center;
   height: 80vh;
@@ -51,7 +51,7 @@ body {
 .cool {
   text-align: center;
   color: black;
-  background-color: brown;
+  background-color: cornflowerblue;
   margin: 20vh ;
   padding: 25px 5px;
   border-radius: 20px;
@@ -63,15 +63,15 @@ body {
   font-size: larger;
 }
 
-.kanye {
+#kanye {
   text-align: center;
   margin-top: 75px;
-  color: blue; 
+  color: black; 
   background-color: aqua;
   margin: 20vh ;
   padding: 25px 5px;
   border-radius: 20px;
-  border: 10px solid cadetblue;
+  border: 10px solid royalblue;
 }
 
 .rip {
