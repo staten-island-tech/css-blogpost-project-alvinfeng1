@@ -56,6 +56,7 @@ body {
   padding: 25px 5px;
   border-radius: 20px;
   border: 10px solid blue;
+  width: fit-content;
 }
 
 .link1 {
@@ -72,6 +73,7 @@ body {
   padding: 25px 5px;
   border-radius: 20px;
   border: 10px solid royalblue;
+  width: fit-content;
 }
 
 .rip {
@@ -82,4 +84,5 @@ body {
   background-color: cyan;
   border-radius: 20px;
   border: 10px solid blue;
+  width: fit-content;
 }
